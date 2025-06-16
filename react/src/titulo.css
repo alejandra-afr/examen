@@ -1,0 +1,36 @@
+/* Fondo y layout del navbar */
+.titulo-navbar {
+  background-color: #4682B4 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+/* Contenedor que centra el texto */
+.titulo-contenido {
+  text-align: center;
+  width: 100%;
+}
+
+/* Título grande */
+.titulo-texto {
+  font-size: 55px;
+  color: white;
+  margin: 0;
+}
+
+/* Frase debajo del título */
+.nombre {
+  font-size: 1rem;
+  color: white;
+  margin-top: 0.5rem;
+}
+.h2{
+    font-size: 90px;
+    color: red;
+}
+caporales{
+    text-align: center;
+    display: block;
+}

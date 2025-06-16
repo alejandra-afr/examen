@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #5e75a5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,4 +28,15 @@
 
 .small {
   font-size: 0.75rem;
+}
+.titulo-navbar-brand {
+  background-color: #4a90e2 !important; /* Cambia esto al color que prefieras */
+}
+
+/* Centra el texto del título */
+.titulo-navbar .navbar-brand {
+  text-align: center;
+  width: 100%;
+  font-size: 1.5rem;
+  color: white;
 }
